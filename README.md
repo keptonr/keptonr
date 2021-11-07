@@ -1,4 +1,4 @@
-### Hi there 👋, I am finance or Krzysztof
+### Hi there 👋, I am finance or *global_wiki*
 #### I'm a freelance Developer (**amogus**)
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
