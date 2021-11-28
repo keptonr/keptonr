@@ -10,3 +10,6 @@ developer htmlو css.
 - حقيقة ممتعة: لقد بدأت البرمجة م
   
 قارئ / مكبر صوت عربي ، (ليست اللغة العربية الأصلية))
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAF1014&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
