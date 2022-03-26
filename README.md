@@ -16,3 +16,5 @@ These are the languages which has made me progress further into the coding indus
 
 
 ![top state](https://github-readme-stats.vercel.app/api?username=tribeic&theme=vision-friendly-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tribeic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
