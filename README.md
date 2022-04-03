@@ -12,7 +12,7 @@ Javascript.
 
 These are the languages which has made me progress further into the coding industry. // --
 ![top state](https://github-readme-stats.vercel.app/api?username=tribeic&theme=vision-friendly-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tribeic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tribeic&show_icons=true&theme=radical)
 
 
 <div align="center">
