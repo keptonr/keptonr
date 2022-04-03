@@ -11,7 +11,6 @@ Lua,
 Javascript.
 
 These are the languages which has made me progress further into the coding industry. // --
-![top state](https://github-readme-stats.vercel.app/api?username=tribeic&theme=vision-friendly-dark&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tribeic&show_icons=true&theme=radical)
 
 
