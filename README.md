@@ -9,11 +9,7 @@ HTML * CSS,
 Python,
 Lua,
 Javascript.
-
-These are the languages which has made me progress further into the coding industry. // --
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tribeic&show_icons=true&theme=radical)
-
-
 <div align="center">
 <p>~ Powered By your Stupidness. ~</p>
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48" height="48">
