@@ -1,4 +1,4 @@
-I'm a Freelance Developer, backend and frontend
+I'm a full-stack developer which works on side projects, whilst doing irl stuff
 
 
 -- // Currently a python developer with over 3.5 month experience // --
