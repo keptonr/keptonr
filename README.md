@@ -1,7 +1,16 @@
 I'm a full-stack developer which works on side projects, whilst doing irl stuff
 
 
--- // Currently a python developer with over 3.5 month experience // --
+### I am currently working on the following:
+- **Ramen** - A discord bot which generates photos of ramen when saying the command.
+- ball.java - This is currently my discord bot which is used for music.
+
+
+## 🍜 I am currently learning:
+- **JDA** - Java Discord API
+- **Python** - python.
+- **Hikari** - Libary for python, discord api wrapper.
+
 
 -- // I've currently use the following languages, below:
 
