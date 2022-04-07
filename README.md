@@ -2,8 +2,13 @@ I'm a full-stack developer which works on side projects, whilst doing irl stuff
 
 
 ### I am currently working on the following:
-- **Ramen** - A discord bot which generates photos of ramen when saying the command.
-- ball.java - This is currently my discord bot which is used for music.
+
+
+// ------------------------------------------ //
+
+### Scrapped Projects 
+- **Ramen** - A discord bot which generates photos of ramen when saying the command. `scrapped`
+- ball.java - This is currently my discord bot which is used for music. `scrapped`
 
 
 ## 🍜 I am currently learning:
