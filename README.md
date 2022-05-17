@@ -11,18 +11,13 @@ I'm a full-stack developer which works on side projects, whilst doing irl stuff
 - ball.java - This is currently my discord bot which is used for music. `scrapped`
 
 
-## 🍜 I am currently learning:
-- **JDA** - Java Discord API
-- **Python** - python.
-- **Hikari** - Libary for python, discord api wrapper.
-
-
 -- // I've currently use the following languages, below:
 
 HTML * CSS,
 Python,
 Lua,
 Javascript.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tribeic&show_icons=true&theme=radical)
 
