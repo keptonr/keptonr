@@ -7,9 +7,7 @@ I'm a full-stack developer which works on side projects, whilst doing irl stuff
 // ------------------------------------------ //
 
 ### Scrapped Projects 
-- **Ramen** - A discord bot which generates photos of ramen when saying the command. `scrapped`
-- ball.java - This is currently my discord bot which is used for music. `scrapped`
-
+non come back later
 
 -- // I've currently use the following languages, below:
 
@@ -24,7 +22,7 @@ Javascript.
 
 
 <div align="center">
-<p>~ Powered By your Stupidness. ~</p>
+<p>~ Powered By my coolness. ~</p>
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/css-3.svg" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" width="48" height="48">
