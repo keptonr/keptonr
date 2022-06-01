@@ -22,7 +22,7 @@ Javascript.
 
 
 <div align="center">
-<p>~ Powered By my coolness. ~</p>
+<p>~ Powered By my Brainpower. ~</p>
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/css-3.svg" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" width="48" height="48">
