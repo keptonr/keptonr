@@ -17,7 +17,7 @@ Lua,
 Javascript.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tribeic&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=triblic&show_icons=true&theme=radical)
 
 
 
