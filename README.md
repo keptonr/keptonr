@@ -1,6 +1,6 @@
 I'm a full-stack developer which works on side projects, whilst doing irl stuff
 
--- // I've currently use the following languages, below:
+I've currently use the following languages, below:
 
 HTML * CSS,
 Python,
