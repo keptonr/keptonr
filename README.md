@@ -9,7 +9,6 @@ Javascript.
 
 
 ![1Kepton](https://github-readme-stats.vercel.app/api?username=150L&show_icons=true&theme=radical)
-![snake gif](https://raw.githubusercontent.com/150L/150L/master/github-contribution-grid-snake.svg)
 
 
 
