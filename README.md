@@ -8,7 +8,8 @@ Lua,
 Javascript.
 
 
-![1Kepton](https://github-readme-stats.vercel.app/api?username=1Kepton&show_icons=true&theme=radical)
+![1Kepton](https://github-readme-stats.vercel.app/api?username=150L&show_icons=true&theme=radical)
+![snake gif](https://raw.githubusercontent.com/arthurpessoa/150L/master/github-contribution-grid-snake.svg)
 
 
 
