@@ -12,7 +12,7 @@ HTML, CSS, Python, Lua, Javascript, C#.
 <div align="center">
 <p>~ Powered By my Caffeine Addiction. ~ </p>
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48" height="48">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="48" height="48"/> C
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="35" height="48"/>
 <img src="https://cdn.svgporn.com/logos/css-3.svg" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/homebrew.svg" alt="Homebrew" width="48" height="48">
