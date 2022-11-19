@@ -1,22 +1,42 @@
-I'm a full-stack developer which works on side projects, whilst doing irl stuff
-
-I've currently use the following languages, below:
-
-HTML, CSS, Python, Lua, Javascript, C#.
-
-
-![1Kepton](https://github-readme-stats.vercel.app/api?username=150L&show_icons=true&theme=radical)
-
-
-
 <div align="center">
-<p>~ Powered By my Caffeine Addiction. ~ </p>
-<img src="https://cdn.svgporn.com/logos/javascript.svg" width="48" height="48">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="40" height="48"/>
-<img src="https://cdn.svgporn.com/logos/css-3.svg" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/homebrew.svg" alt="Homebrew" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSC" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" width="48" height="48">
-<img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="48" height="48">
+<h1>HTG-YT</h1>
 
+<blockquote><strong>Ukrainian - Polish, Programmer</strong></blockquote>
+
+</div>
+
+## What I Use:
+
+### Frameworks  / Languages / Runtimes
+
+<div align="left">
+<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white"/>
+<img src="https://img.shields.io/badge/powershell-%235391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/prisma-%232D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/astro-%23FF5D01.svg?&style=for-the-badge&logo=astro&logoColor=white"/>
+</div>
+
+### Dev Tools
+
+<div align="left">
+<img src="https://img.shields.io/badge/clion-%2338B2AC.svg?&style=for-the-badge&logo=clion&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellij%20idea-%2338B2AC.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+### Operating Systems
+
+<div align="left">
+<img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
+
+## Statistics
+
+<img src="/github-metrics.svg" alt="Metrics">
