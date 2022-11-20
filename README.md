@@ -1,7 +1,7 @@
 <div align="center">
 <h1>150L</h1>
 
-<blockquote><strong>Ukrainian - Polish, Programmer</strong></blockquote>
+<blockquote><strong>British - German (Polish) </strong></blockquote>
 
 </div>
 
