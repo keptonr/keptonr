@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/prisma-%232D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/astro-%23FF5D01.svg?&style=for-the-badge&logo=astro&logoColor=white"/>
-<img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 </div>
 
 ### Dev Tools
