@@ -22,7 +22,6 @@
 ### Dev Tools
 
 <div align="left">
-<img src="https://img.shields.io/badge/clion-%2338B2AC.svg?&style=for-the-badge&logo=clion&logoColor=white"/>
 <img src="https://img.shields.io/badge/intellij%20idea-%2338B2AC.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
