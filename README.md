@@ -18,9 +18,8 @@
 <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white"/>
 
 </div>
-<img align="left" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-3/723835524720361474.png">
 
-  ### Dev Tools
+### Dev Tools
 
 <div align="left">
 <img src="https://img.shields.io/badge/intellij%20idea-%2338B2AC.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white"/>
