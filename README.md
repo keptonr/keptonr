@@ -1,7 +1,7 @@
 <div align="center">
 <h1>150L</h1>
 
-<blockquote><strong>You're local Romanian - British Programmer </strong></blockquote>
+<blockquote><strong>You're local German - Lithuanian Programmer </strong></blockquote>
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 <hr>
