@@ -1,7 +1,7 @@
 <div align="center">
-<h1>Крістіанс Кучинскас</h1>
+<h1>mi</h1>
 
-<blockquote><strong>You're local Ukrainian - Lithuanian Programmer </strong></blockquote>
+<blockquote><strong>You're local swedish programmer </strong></blockquote>
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 <hr>
