@@ -11,6 +11,7 @@
 ### Frameworks  / Languages / Runtimes
 
 <div align="left">
+<img src="https://img.shields.io/badge/HTML/CSS-orange?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
