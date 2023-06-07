@@ -1,7 +1,7 @@
 <div align="center">
 <h1>mi</h1>
 
-<blockquote><strong>Du är en lokal svensk programmerare </strong></blockquote>
+<blockquote><strong>Du är en lokal bulgarisk programmerare </strong></blockquote>
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 <hr>
