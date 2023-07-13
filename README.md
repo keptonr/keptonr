@@ -1,7 +1,9 @@
 <div align="center">
-<h1>Ayr</h1>
+<h1>east</h1>
 
-<blockquote><strong>Ingeniero de Software / Eres Venezolano Local + Americano </strong></blockquote>
+<blockquote><strong>A nevem East, és Magyarországról jöttem.</strong></blockquote>
+<blockquote><strong>My name is East and I'm from Hungary. </strong></blockquote>
+
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 <hr>
